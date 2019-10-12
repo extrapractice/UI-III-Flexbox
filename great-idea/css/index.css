@@ -189,7 +189,7 @@ body{
     border-bottom: 2px solid black;
 }
 .service-box{
-    padding: 20px;
+    padding: 30px 20px 30px 20px;
     width: 46%;
     margin: 30px 3% 30px 0;
     border: 2px solid black;
